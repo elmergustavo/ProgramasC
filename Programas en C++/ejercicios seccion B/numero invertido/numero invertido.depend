@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487119080 source:c:\users\elmer gustavo\desktop\proyectos en c++\numero invertido\main.cpp
+	<iostream>
+
+1487888220 source:d:\ejercicios seccion b\numero invertido\main.cpp
+	<iostream>
+	<conio.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1489815203 source:c:\users\elmer gustavo\desktop\proyecto 1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1490241088 source:c:\users\elmer gustavo\desktop\proyecto terminado\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1490241088 source:d:\proyecto terminado\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1490241088 source:c:\users\elmer gustavo\desktop\programas en c++\elmer gustavo pu tzunux carnet 1535017\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490930640 source:c:\users\elmer gustavo\desktop\ejercicios de vectores\soloyolevoyaenteder\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+

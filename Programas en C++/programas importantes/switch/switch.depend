@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489275499 source:c:\users\elmer gustavo\desktop\switch\main.cpp
+	<iostream>
+	<conio.h>
+

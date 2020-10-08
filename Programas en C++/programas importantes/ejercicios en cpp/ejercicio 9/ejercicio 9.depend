@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488746307 source:c:\users\elmer gustavo\desktop\ejercicios en cpp\ejercicio 9\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+

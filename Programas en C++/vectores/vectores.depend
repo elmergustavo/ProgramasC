@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1490969364 source:c:\users\prograb\documents\progra seccion b\vectores\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1491014112 source:d:\vectores\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1491014112 source:c:\users\elmer gustavo\desktop\usb\vectores\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+

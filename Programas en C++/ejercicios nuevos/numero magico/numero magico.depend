@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491774204 source:c:\users\elmer gustavo\desktop\ejercicios nuevos\numero magico\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

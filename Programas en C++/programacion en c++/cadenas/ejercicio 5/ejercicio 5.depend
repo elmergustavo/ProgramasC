@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494943458 source:c:\users\elmer gustavo\desktop\programacion en c++\cadenas\ejercicio 5\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+

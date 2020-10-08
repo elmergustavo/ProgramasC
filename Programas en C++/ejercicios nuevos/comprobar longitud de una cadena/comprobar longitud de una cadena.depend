@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491944386 source:c:\users\elmer gustavo\desktop\ejercicios nuevos\comprobar longitud de una cadena\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+

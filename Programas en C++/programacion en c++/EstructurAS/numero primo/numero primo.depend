@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1495581330 source:c:\users\elmer gustavo\desktop\programacion en c++\estructuras\numero primo\main.cpp
+	<iostream>
+
+1505949672 source:c:\users\elmer gustavo\desktop\programas en c++\programacion en c++\estructuras\numero primo\main.cpp
+	<iostream>
+	<conio.h>
+

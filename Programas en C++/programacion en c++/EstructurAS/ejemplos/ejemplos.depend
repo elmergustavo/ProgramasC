@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495066993 source:c:\users\elmer gustavo\desktop\programacion en c++\estructuras\ejemplos\main.cpp
+	<iostream>
+	<math.h>
+

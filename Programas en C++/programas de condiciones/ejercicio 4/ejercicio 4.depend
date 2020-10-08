@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487944392 source:c:\users\prograa\desktop\ejercicio 4\main.cpp
+	<iostream>
+
+1488151303 source:d:\programas de condiciones\ejercicio 4\main.cpp
+	<iostream>
+	<conio.h>
+

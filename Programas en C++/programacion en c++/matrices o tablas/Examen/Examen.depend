@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1494957348 source:c:\users\elmer gustavo\desktop\programacion en c++\matrices o tablas\examen\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

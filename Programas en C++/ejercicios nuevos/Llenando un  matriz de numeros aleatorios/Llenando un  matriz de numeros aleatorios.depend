@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491849105 source:c:\users\elmer gustavo\desktop\ejercicios nuevos\llenando un  matriz de numeros aleatorios\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

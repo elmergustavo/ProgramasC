@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495675586 source:c:\users\elmer gustavo\desktop\programacion en c++\estructuras\cadenas\main.cpp
+	<iostream>
+	<string.h>
+

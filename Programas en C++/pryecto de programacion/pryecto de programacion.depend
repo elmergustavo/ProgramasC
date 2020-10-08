@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1490847480 source:c:\users\elmer gustavo\desktop\ejercicios de vectores\pryecto de programacion\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1490969510 source:d:\pryecto de programacion\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+
+1490969609 source:c:\users\elmer gustavo\desktop\usb\pryecto de programacion\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+

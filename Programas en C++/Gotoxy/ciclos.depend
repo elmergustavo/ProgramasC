@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1489759518 source:c:\users\prograb\documents\progra seccion b\ciclos\main.cpp
+	<iostream>
+	<windows.h>
+
+1489759656 source:d:\ciclos\main.cpp
+	<iostream>
+	<windows.h>
+
+1489759656 source:c:\users\elmer gustavo\desktop\usb\ciclos\main.cpp
+	<iostream>
+	<windows.h>
+
+1489759656 source:c:\users\elmer gustavo\desktop\programas en c++\gotoxy\main.cpp
+	<iostream>
+	<windows.h>
+
+1489759656 source:c:\users\elmer gustavo\desktop\universidad 2017\programas en c++\gotoxy\main.cpp
+	<iostream>
+	<windows.h>
+

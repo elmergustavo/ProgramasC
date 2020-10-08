@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493390270 source:c:\users\prograa\desktop\examen elmer gustavo pu tzunux\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1493390443 source:c:\users\elmer gustavo\downloads\examen elmer gustavo pu tzunux\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1493390443 source:c:\users\elmer gustavo\downloads\progrmas\examen elmer gustavo pu tzunux\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494888593 source:c:\users\elmer gustavo\desktop\programacion en c++\matrices o tablas\ejercicio 4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

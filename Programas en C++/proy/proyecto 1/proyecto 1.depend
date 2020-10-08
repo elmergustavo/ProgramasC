@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489844208 source:c:\users\elmer gustavo\desktop\proyecto 1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1490037668 source:c:\users\elmer gustavo\desktop\programas en c++\proy\proyecto 1\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
